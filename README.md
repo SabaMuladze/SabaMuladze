@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabaMuladze?tab=repositories](https://github.com/SabaMuladze?tab=repositories)
 
-- 📫 How to reach me **muladze66@bk.ru**
+- 📫 How to reach me **saba.muladzee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
