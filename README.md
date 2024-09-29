@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamuladze&label=Profile%20views&color=0e75b6&style=flat" alt="sabamuladze" /> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Python**🐍
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabaMuladze?tab=repositories](https://github.com/SabaMuladze?tab=repositories)
 
